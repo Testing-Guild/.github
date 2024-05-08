@@ -20,7 +20,7 @@ The Testing Guild repositories are categorized by different software testing are
 *  **Resources:** Additional materials like articles, tutorials, or references related to the testing category.
 *  **Challenges :** Exercises or problems to practice implementing different testing techniques.
 
-**Current Implemented Tests:**
+**Implemented Tests:**
 
 * **[Unit Testing](https://github.com/Testing-Guild/Unit-Testing)** 
 
