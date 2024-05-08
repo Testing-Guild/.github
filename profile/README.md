@@ -22,9 +22,7 @@ The Testing Guild repositories are categorized by different software testing are
 
 **Current Implemented Tests:**
 
-**(Note: Coming Soon)**
-
-* **Unit Testing:** 
+* **[Unit Testing](https://github.com/Testing-Guild/Unit-Testing)** 
 
 **Stay Updated:**
 
