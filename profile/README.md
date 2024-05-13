@@ -26,6 +26,7 @@ The Testing Guild repositories are categorized by different software testing are
 * **[Integration-Test](https://github.com/Testing-Guild/Integration-Test)**
 * **[System-Test](https://github.com/Testing-Guild/System-Testing)**
 * **[E2E-Test](https://github.com/Testing-Guild/E2E-Testing)**
+* **[Regression-Testing](https://github.com/Testing-Guild/Regression-Testing)**
 
 **Stay Updated:**
 
