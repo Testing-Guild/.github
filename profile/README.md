@@ -27,6 +27,7 @@ The Testing Guild repositories are categorized by different software testing are
 * **[System-Test](https://github.com/Testing-Guild/System-Testing)**
 * **[E2E-Test](https://github.com/Testing-Guild/E2E-Testing)**
 * **[Regression-Testing](https://github.com/Testing-Guild/Regression-Testing)**
+* **[Smoke-Testing](https://github.com/Testing-Guild/Smoke-Testing)**
 
 **Stay Updated:**
 
